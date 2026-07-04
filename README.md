@@ -27,10 +27,5 @@ This project is a school website built with React, Vite, TanStack Router, and Su
 npm run build
 ```
 
-## Security notes
-- Do not commit environment files such as `.env`, `.env.local`, or `.env.production`.
-- Keep private API keys, access keys, and other secrets in local environment variables.
-- For production, use a secure backend and real authentication if you want full data protection.
-
 ## Deployment
 You can publish this repository to GitHub and deploy it using any hosting service that supports Vite/TanStack apps.
